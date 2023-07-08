@@ -1,5 +1,5 @@
 # express-jwt-auth
 
-clone project
+npm install
 
-nodemon index
+npm start
